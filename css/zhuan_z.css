@@ -1,0 +1,49 @@
+ address, cite, dfn, em, var { font-style: normal;}
+.tiezi-title{ margin-top:10px; padding: 8px 2px; color: #787878; border-bottom: 20px solid #DDDDDD; position:relative; background-color:#fff;}
+.tiezi-title .absolute{ position:absolute; width: 20px; padding: 10px 5px; text-align: center; line-height: 20px; color: #fff; left: 0; top: -1px; background: #1FBAE6;}
+.tiezi-title .zt i{ font-style:normal;}
+.tiezi-title h1{ line-height:25px; padding-left: 28px; font-weight: 600; font-size:18px; font-weight:normal; color: #333; background:#fff url(../picture/louzhu.png) 0.23% top no-repeat; background-size:23px 23px;}
+.tiezi-title .about{width: 100%; overflow: hidden; padding-left: 25px; padding-top:5px; font-size:15px; box-sizing: border-box;}
+.tiezi-title .about .msg{ float:left;}
+.tiezi-title .about .time{ float:right;}
+.tiezi-title .tiezi-es{ padding:5px 0 0 0; }
+.tiezi-title .tiezi-es i{ font-style:normal; line-height:22px;}
+
+.tiezi-bs{ padding: 8px 12px; position: relative; background-color: #fff;}
+.tiezi-bs-titles h2.t2 { background: #77C182;}
+.tiezi-bs-titles { width: 100%; height: auto; line-height: 32px; overflow:hidden; position:relative;}
+.tiezi-bs-titles h2 { float: left; height: 100%; padding-right: 28px; font-size: 18px; text-indent: 12px;
+ color: #fff; position: relative;}
+.tiezi-bs-titles h2:after {content: "";width: 0; height: 0; border: 16px solid transparent; border-right-color: #fff; position: absolute;right: 0; top: 0;}
+.tiezi-bs .list { padding-top: 10px;}
+.list { overflow: hidden; box-sizing: border-box;}
+.tiezi-bs .list li { border-bottom: 1px dotted #E3E3E7; line-height: 28px;}
+.list li { float: left; width: 100%; overflow: hidden;}
+.list li a { display: block; width: 100%;  overflow: hidden; color: #0099e3; font-size:16px; box-sizing: border-box; padding: 1px 12px 1px 20px; white-space: nowrap; text-overflow: ellipsis;  position: relative;}
+
+ .h1 { color: #333; font-size: 16px; font-weight: normal; border-bottom: 0; padding: 4px 8px 5px 28px; background: #fff url(../picture/manyu.png) 0.33% 40% no-repeat; background-size: 20px 23px;}
+ .postinfo { padding: 8px 12px; color: #787878;}
+ #content { color: #333; font-size: 18px; line-height: 1.5em; padding: 2px 2px 4px 2px; word-break: break-all; border-bottom: 20px solid #DDDDDD;}
+ .problem p { margin-top: 3px; margin-bottom: 3px; font-size: 15px; line-height: 22px; color: #333; text-overflow: ellipsis;  word-break: break-all; text-align: justify;}
+ #content p{ margin-bottom:5px;} 
+
+.prcamzsize{ position:relative; height:auto; max-width:720px; overflow:hidden; margin:0 auto;}
+.prcamzsize .amaziseShop{ margin:10px;}
+.prcamzsize .amaziseShop img{ width:100%;}
+.dec{ text-indent:20px;}
+.decImage0{ max-width:65%; margin:10px auto;}
+.blod{ font-weight:600; color:#333 ! important;}
+.bott{ margin:5px 0px; text-align:center; overflow:hidden; font:16px/150% 'Microsoft Yahei'; vertical-align:baseline; color:#555;}
+.hong{ font-size:18px; font-weight:600; color:#ff0000;}
+
+.ask-expert-box { border-bottom: 10px solid #f5f8fa; background-color: #fff; padding: 0px 10px 0px 10px; padding-bottom: 10px;}
+.ask-expert-box h2 { display: block; height: 30px; margin: 0 0 5px; font-size: 16px; font-weight: 700; line-height: 30px; color: #333;}
+.xyhlemFit { display: inline-block; width: 29px ! important; height: 40px ! important; top:0 ! important; background-size: 30px; background: url(http://4g.xpfamily.net/zt1/mmc/picture/z_jia.png) no-repeat;}
+.new-box { line-height: 40px; font-size: 16px; color: #333; position: absolute;}
+.ask-expert .expert-audio { padding-bottom: 10px;}
+.ask-expert .expert-audio img, .ask-expert .expert-audio span { display: inline-block; vertical-align: middle;}
+.ask-expert .expert-audio img { width: 30px; height: 30px; border-radius: 100%;}
+.expert-audio .audio-btn { display: inline-block; position: relative; width: 205px; height: 40px; padding-left: 36px; font-size: 16px; color: #202120; line-height: 40px; vertical-align: middle; background: url(http://4g.xpfamily.net/zt1/mmc/picture/audio-blue.e77c86b7.png) no-repeat; background-size: auto 100%;}
+.ask-expert .expert-info { width: 100%; font-size: 13px; color: #ccc; overflow: hidden;}
+.ask-expert .expert-info .expert-name { float: left; width: 75%; line-height: 1.6; font-size: 12px; color: #ccc; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;}
+.ask-expert .expert-info .price { float: right; width: 25%; font-size: 12px; line-height: 1.6; text-align: right; color: #f67153;}
